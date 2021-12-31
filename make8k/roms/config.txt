@@ -1,0 +1,29 @@
+Test Rev. 4 (1982) (PD).vec
+Armor Attack (1982).vec
+Bedlam (1983).vec
+Berzerk (1982).vec
+Blitz! - Action Football (1982).vec
+Clean Sweep (1982).vec
+Clean Sweep (Mr Boston Version) (1982).vec
+config.txt
+Cosmic Chasm (1982).vec
+Fortress of Narzod (1982).vec
+Heads Up - Action Soccer (1983).vec
+Hyperchase (1982).vec
+Mine Storm (1982).vec
+Mine Storm II (1983).vec
+Narrow Escape (2-D Version by Fred Taft) (1983) [h1].vec
+Polar Rescue (1983).vec
+Pole Position (1982).vec
+Rip-Off (1982).vec
+Scramble (1982).vec
+Solar Quest (1982).vec
+Space Wars (1982).vec
+Spike (1983).vec
+Spinball (1983).vec
+Star Castle (1983).vec
+Star Hawk (1982).vec
+Star Ship (1982).vec
+Star Trek - The Motion Picture (1982).vec
+Tour De France (1983) (Prototype).vec
+Web Warp (1983).vec
