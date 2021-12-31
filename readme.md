@@ -9,11 +9,11 @@ The PCB was developed using kicad (not sure which version, it was a few years ag
 
 I think the original schematic came from https://harmlesslion.com/text/vectrex_multicart.htm
 
-![schematic](pcb\images\multicart.svg "schematic")
+![schematic](pcb/images/multicart.svg "schematic")
 
 ## PCB
 
-![PCB](pcb\images\multicart_pcb.png)
+![PCB](pcb/images/multicart_pcb.png)
 
 
 ## Cart EPROM
